@@ -7,7 +7,6 @@ import com.renyigesai.immortalers_delight.block.brushable.ModBrushableBlock;
 import com.renyigesai.immortalers_delight.block.brushable.ModBrushableBlockEntity;
 import com.renyigesai.immortalers_delight.init.ImmortalersDelightTags;
 import com.renyigesai.immortalers_delight.init.ImmortalersDelightItems;
-import com.renyigesai.immortalers_delight.mixin.SnifferMixin;
 import com.renyigesai.immortalers_delight.util.WorldUtils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Holder;

@@ -8,9 +8,8 @@
     "EntityFireImmuneMixin",
     "ItemEntityMixin",
     "PlayerMixin",
-    "SnifferMixin"
-  ],
-  "client": [
+    "SnifferMixin",
+    "SnifferDataMixin"
   ],
   "injectors": {
     "defaultRequire": 1
