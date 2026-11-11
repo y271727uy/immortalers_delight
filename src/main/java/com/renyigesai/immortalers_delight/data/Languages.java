@@ -488,6 +488,8 @@ public class Languages extends LanguageProvider {
     }
 
     private void adds(){
+        add("guideme.immortalers_delight.guide_name", "Immortalers Delight Guide", "千古乐事指南");
+        add("guideme.immortalers_delight.guide_tooltip", "A field guide to ancient crops, cooking, and exploration.", "古代作物、烹饪与探索指南。");
         add("death.attack.drunk","%1$s Drunk on the asphalt","%1$s 醉倒在柏油路上");
         add("death.attack.drunk.item","%1$s was killed by %2$s using %3$s","%1$ 被 %2$s 杀死 %3$s");
         add("death.attack.drunk.player","%1$ died whilst trying to escap %2$s","%1$ 在试图逃跑时死亡 %2$s");
